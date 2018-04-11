@@ -16,9 +16,12 @@ a unifies graph.
 ## Usage and Execution
 - CIFAR10 data should be exracted and and located in the same directory as the codes files.
 - Change the directory to the files and data directory:
-'''
-cd CNN_TensorFlow_CIFAR10
-'''
-## Execution
+```
+    cd CNN_TensorFlow_CIFAR10
+```
+- run the main file:  
+``` 
+   python3  main.py
+```
 
 
