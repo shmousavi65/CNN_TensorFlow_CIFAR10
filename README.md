@@ -3,9 +3,8 @@ Convolutional Neural Network developed by TensorFlow for CIFAR10 Image Classific
 
 ## Notes:
 - Dropout and L_2 Regularization methods are incorporated to avoid overfitting in the training process.
-- Data manipulation including random flip are used to improve training task
-- TensorFlow Dataset class is used to integrate the reading input task, data processing (including normalization, random flip), and training as
-a unifies graph.
+- Data manipulation, including image random flip, are used to improve training task
+- TensorFlow Dataset class is used to integrate the reading input task, data processing (including image normalization and random flip), and training as a unifies graph.
 
 ## Prerequisits
 - Python 3.5
