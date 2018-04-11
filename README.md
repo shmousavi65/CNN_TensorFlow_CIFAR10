@@ -14,8 +14,8 @@ a unifies graph.
 - Pickle
 
 ## Usage and Execution
-- CIFAR10 data should be exracted and and located in the same directory as the codes files.
-- Change the directory to the files and data directory:
+- CIFAR10 data should be exracted and and located in the same directory as the codes files. Cifar10 data includes data-batch_1, data-batch_2, data-batch_3, data-batch_4, data-batch_5, and test-batch  
+- Change the directory to the codes and data files directory:
 ```
     cd CNN_TensorFlow_CIFAR10
 ```
@@ -23,5 +23,5 @@ a unifies graph.
 ``` 
    python3  main.py
 ```
-
+ 
 
